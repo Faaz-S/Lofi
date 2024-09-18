@@ -1,0 +1,10 @@
+html,
+body,
+#root {
+  background-color: #000;
+  color: white;
+}
+
+#root {
+  padding: 0rem 5rem;
+}
